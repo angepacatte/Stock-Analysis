@@ -1,15 +1,16 @@
 
 # Stock-Analysis
+
 ## VBA Challenge Write Up
 
 
 ## Overview
 
-	The purpose of this analysis was to refactor or change the existing code created to analyze certain stocks. In refactoring, the goal was to decrease the amount of time it took to go through the code and obtain the different information outputs.  Refactoring the code would allow for larger data to be processed in a reasonable amount of time.
+The purpose of this analysis was to refactor or change the existing code created to analyze certain stocks. In refactoring, the goal was to decrease the amount of time it took to go through the code and obtain the different information outputs.  Refactoring the code would allow for larger data to be processed in a reasonable amount of time.
 
 ## Results
 
-	After analyzing the different tickers in 2017 and 2018, 2017 was a much better year by its returns.  Most stocks where in the green indicating that the ending price was higher than the starting price.  2018 had a majority of the stocks in red meaning they closed at a lower value than where they started. 
+After analyzing the different tickers in 2017 and 2018, 2017 was a much better year by its returns.  Most stocks where in the green indicating that the ending price was higher than the starting price.  2018 had a majority of the stocks in red meaning they closed at a lower value than where they started. 
 	
 <img width="1280" alt="VBA Stock Analysis 2017" src="https://user-images.githubusercontent.com/85581208/140005591-1eacd4a7-4a3f-4472-88d4-7fab37785530.png">
 
